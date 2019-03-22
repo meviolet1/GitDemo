@@ -12,8 +12,14 @@ set.seed(100)
 rnorm(y,mean=21,sd=2)
 
 
+for (i in 1:3){
+  print("Love R")
+}
+## pull request
+
 print(x)
 
 ##add new branch in Github
 ##To synchronize branc to local terminal
 ##write "git fetch " in the local terminal 
+
