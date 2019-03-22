@@ -7,3 +7,5 @@ for (i in 1:3){
 }
 
 rnorm(x,mean=21,sd=2)
+set.seed(100)
+rnorm(y,mean=21,sd=2)
