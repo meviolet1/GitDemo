@@ -14,4 +14,4 @@ rnorm(y,mean=21,sd=2)
 for (i in 1:3){
   print("Love R")
 }
->>>>>>> 3d3df9bcc667866d65c16357fadaaba34c187a08
+## pull request
